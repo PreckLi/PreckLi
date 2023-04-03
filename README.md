@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PreckLi
+- 👋 Hi, I’m @Li Kunhao
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning Graph Neural Network
-- 📫 How to contact me: preckli1999@163.com
+- 📫 How to contact me: preckli1999@163.com y21301033@stu.ahu.edu.cn
 
 <!---
 PreckLi/PreckLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
