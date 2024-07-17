@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Li Kunhao
+- 👋 Hi, I’m @Kunhao Li
 - 👀 I’m interested in deep learning, LLM
 - 🌱 I’m currently learning edge computing
 - 📫 How to contact me: preckli1999@163.com, sekunhaoli@mail.scut.edu.cn, kunhaoli@stu.ahu.edu.cn
